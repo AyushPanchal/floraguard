@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "873984317356",
+    "project_id": "flora-guard-ai",
+    "storage_bucket": "flora-guard-ai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873984317356:android:cdbf7c7e9d1d848b4fcc09",
+        "android_client_info": {
+          "package_name": "com.example.flora_guard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXylWPLEwn4JO4Aw9Bq6-4ZyDFJvPoG_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
